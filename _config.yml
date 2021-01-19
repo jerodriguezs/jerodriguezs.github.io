@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "juliorodriguezs"
 facebook:
   username               :
   app_id                 :
@@ -76,6 +76,7 @@ analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-187530988-2"
+    anonymize_ip         : true
 
 
 # Site Author
@@ -114,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+ # github_username   : "jerodriguezs"
+ # twitter_username  : "juliorodriguezs"
 
 
 # Reading Files

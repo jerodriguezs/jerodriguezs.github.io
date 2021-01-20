@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I'm a Ph.D. student of the Economics and Education program at Teachers College, Columbia University. Previously, I obtained a BA in Economics and an MA in Economic Analysis from Universidad de Chile. I'm interested in quantitative research regarding segregation and inequality in the educational system. Also, I'm keen on using administrative data aiming to better understand the impact of education on long term results, such as labor outcomes and social mobility.
+
+I have previously worked as a consultant at the Inter-American Development Bank, where I participated in various RCT studies in developing countries. While there, I also conducted gender and school financing research. Furthermore, I have worked on labor and education research projects with the Universidad de Chile’s faculty.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

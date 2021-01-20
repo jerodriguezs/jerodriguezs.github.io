@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+<br>
+<br>
 
 I'm a Ph.D. student of the Economics and Education program at Teachers College, Columbia University. Previously, I obtained a BA in Economics and an MA in Economic Analysis from Universidad de Chile.
 

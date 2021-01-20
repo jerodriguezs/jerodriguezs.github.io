@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Julio Rodríguez"
-  avatar           : "/images/IMG_4022_opt.jpg"
+  avatar           : /images/IMG_4022_opt.jpg
   bio              : "Your biography for the left-hand sidebar"
   location         : "NY, U.S."
   employer         :

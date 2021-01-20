@@ -14,7 +14,7 @@ description              : #&description "personal description"
 url                      : "https://jerodriguezs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jerodriguezs/jerodriguezs.github.io"
-teaser                   : "IMG_4022_opt.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/IMG_4022_opt.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "jerodriguezs"
+  github           : "jerodriguezs"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -109,15 +109,20 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
   github_username  : "jerodriguezs"
- # twitter_username  : "juliorodriguezs"
+  twitter_username : "juliorodriguezs"
 
+
+# Site Footer
+footer:
+  links:
+  
 
 # Reading Files
 include:

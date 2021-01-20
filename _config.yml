@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julio Rodríguez 1.1"
+title                    : "Julio Rodríguez"
 title_separator          : "-"
-name                     : #&name "Julio Rodríguez"
-description              : #&description "personal description"
+name                     : &name "Julio Rodríguez"
+description              : &description "personal description"
 url                      : "https://jerodriguezs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jerodriguezs/jerodriguezs.github.io"
-teaser                   : "/images/IMG_4022_opt.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "IMG_4022_opt.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julio Rodríguez 2"
+  name             : "Julio Rodríguez"
   avatar           : "/images/IMG_4022_opt.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "NY, U.S."
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :

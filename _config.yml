@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jerodriguezs"
+  github           : # "jerodriguezs"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
- # github_username   : "jerodriguezs"
+  github_username  : "jerodriguezs"
  # twitter_username  : "juliorodriguezs"
 
 

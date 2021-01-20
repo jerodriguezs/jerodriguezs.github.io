@@ -85,7 +85,7 @@ author:
   avatar           : "IMG_4022_opt.jpg"
   bio              : "Ph.D. student in Economics and Education."
   location         : "NY, U.S."
-  employer         : "Teachers College,<br> &Tab Columbia University"
+  employer         : "Teachers College,<br> &nbsp Columbia University"
   pubmed           :
   googlescholar    : # example: "http://yourfullgooglescholarurl.com"
   email            : "julio.rodriguez@columbia.edu"

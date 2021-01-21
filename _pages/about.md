@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 <br>
-I'm a Ph.D. student of the Economics and Education program at Teachers College, Columbia University. Previously, I obtained a B.A. in Economics and an M.A. in Economic Analysis from Universidad de Chile.
+I'm a Ph.D. student in Economics and Education at Teachers College, Columbia University. Previously, I obtained a B.A. in Economics and an M.A. in Economic Analysis from Universidad de Chile.
 
 I'm interested in quantitative research regarding segregation and inequality in the educational system. Also, I'm keen on using administrative data aiming to better understand the impact of education on long term results, such as labor outcomes and social mobility.

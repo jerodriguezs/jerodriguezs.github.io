@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Hello
+{% for post in site.resume reversed %}
+  {% include archive-single.html %}
+{% endfor %}

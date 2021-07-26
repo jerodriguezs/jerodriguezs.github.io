@@ -5,12 +5,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Code"
     url: /code/
-        
-  - title: "Posts"
-    url: /year-archive/
-    
+
   - title: "Resume"
     url: /resume/
+
+  - title: "Posts"
+    url: /year-archive/

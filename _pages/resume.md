@@ -1,1 +1,10 @@
-My resume can be found [here](https://jerodriguezs.github.io/files/resume_julio_rodriguez.pdf)
+---
+layout: archive
+title: "Resume"
+permalink: /resume/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}

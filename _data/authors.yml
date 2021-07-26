@@ -3,11 +3,11 @@
 Name Name:
   name        : "Julio Rodríguez"
   uri         : "jerodriguezs.github.io"
-  email       : "julio.rodriguez@columbia.edu.com"
+  email       : "julio.rodriguez@columbia.edu"
   bio         : "bio"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "twitter_name"
+  google_plus : ""
 
 Name2 Name2:
   name        : "Name2 Name2"

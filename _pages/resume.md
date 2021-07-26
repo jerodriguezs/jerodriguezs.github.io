@@ -1,12 +1,7 @@
 ---
-layout: archive
 title: "Resume"
+collection: resume
 permalink: /resume/
-author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.resume reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+My resume can be found [here](https://jerodriguezs.github.io/files/resume_julio_rodriguez.pdf)

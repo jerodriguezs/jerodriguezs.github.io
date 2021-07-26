@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XXX"
+title: "Julio Rodriguez"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

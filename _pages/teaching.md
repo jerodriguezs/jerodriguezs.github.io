@@ -23,4 +23,5 @@ permalink: /teaching/
 - ***Labor Economics*** (*Prof. Prof. Dante Contreras, Fall 2011*)
 - ***Labor Economics*** (*Prof. Prof. David Bravo, Spring 2010*)
 - ***Calculus II*** (*Prof. Freddy Rojas, Spring 2010*)
+
 ---

@@ -1,6 +1,6 @@
 **PUBLICATIONS**
 
-Planas, M. E., Garcia, P. J., Bustelo, M., Carcamo, C. P., Martinez, S., Ñopo, H. Rodriguez, J., M. F. Merino and & Morrison, A. (2015). Effects of ethnic attributes on the quality of family planning services in Lima, Peru: a randomized crossover trial. *PloS one*, *10*(2), e0115274.
+Planas M-E, García PJ, Bustelo M, Carcamo CP, Martinez S, Ñopo H, et al. (2015) Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial. *PLoS ONE 10*(2): e0115274. https://doi.org/10.1371/journal.pone.0115274
 
 
 **WORKING PAPERS AND ONGOING RESEARCH**

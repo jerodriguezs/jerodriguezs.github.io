@@ -15,11 +15,11 @@ permalink: /research/
 
 # Working Papers and Ongoing Research
 
-- Bergman, P., Kopko, E., & Rodriguez, J. E. (2021). *[Using Predictive Analytics to Track Students: Evidence from a Seven-College Experiment](https://www.nber.org/papers/w28948)* (No. w28948). National Bureau of Economic Research.
+- Bergman, P., Kopko, E., & Rodriguez, J. E. (2021). *[Using Predictive Analytics to Track Students: Evidence from a Seven-College Experiment](https://www.nber.org/papers/w28948)* (No. w28948). National Bureau of Economic Research.  
   *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education)
 
-- Better Together? The Effects of Integrated Social Services for Women.
-  *Revise & Resubmit at Journal of Policy Analysis and Management*
+- Better Together? The Effects of Integrated Social Services for Women.  
+  *Revise & Resubmit at Journal of Policy Analysis and Management*  
   *with S. Martinez, M. Pérez and M. Bustelo*
 
 - Jaimovich, A., Rodríguez, J., Santos, H., Bertoni, E., & Elacqua, G. (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319)* (No. 9124). Inter-American Development Bank.

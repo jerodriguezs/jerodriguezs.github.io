@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/
 ---
 
-testing
-
 ## Teaching Assistant. Columbia University
 
 - ***Quantitative Methods for Evaluating Education Policies and Programs*** (*Prof. Peter Bergman, Spring 2020 & 2021*)  
@@ -18,9 +16,11 @@ testing
 
 ## Teaching Assistant. Universidad de Chile
 
+- ***Labor Market & Labor Economics*** (*Prof. Jaime Ruiz Tagle, Spring 2011*)
+- ***Issues in Social Project Evaluation*** (*Prof. Jaime Ruiz Tagle, Spring 2011*)
+- ***Econometrics I*** (*Prof. Jaime Ruiz Tagle, Fall 2012*)
+- ***Economics 101*** (*Prof. Dante Contreras, Fall 2011 & 2012*)
+- ***Labor Economics*** (*Prof. Prof. Dante Contreras, Fall 2011*)
+- ***Labor Economics*** (*Prof. Prof. David Bravo, Spring 2010*)
+- ***Calculus II*** (*Prof. Freddy Rojas, Spring 2010*)
 ---
-
-
-
-
-

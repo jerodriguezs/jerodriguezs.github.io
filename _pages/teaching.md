@@ -2,6 +2,9 @@
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
+redirect_from: 
+  - "/teaching/"
+  - "/teaching.html"
 ---
 
 ---

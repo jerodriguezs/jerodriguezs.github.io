@@ -1,10 +1,9 @@
-<!---
 ---
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
 ---
--->
+
 
 ## Teaching Assistant. Columbia University
 

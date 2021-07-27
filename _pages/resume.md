@@ -1,7 +1,7 @@
 ---
 title: "Resume"
-collection: resume
 permalink: /resume/
+author_profile: true
 ---
 
 ---

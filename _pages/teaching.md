@@ -4,6 +4,8 @@ collection: teaching
 permalink: /teaching/
 ---
 
+---
+
 ## Teaching Assistant. Columbia University
 
 - ***Quantitative Methods for Evaluating Education Policies and Programs*** (*Prof. Peter Bergman, Spring 2020 & 2021*)  

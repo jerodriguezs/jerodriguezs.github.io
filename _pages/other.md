@@ -6,5 +6,5 @@ author_profile: true
 
 ---
 
-I love taking pictures, watching/playing *fútbol*, riding my bike, and fly fishing (+ fly tying).  
+I enjoy taking pictures, watching/playing *fútbol*, riding my bike, and fly fishing (+ fly tying).  
 Here I will post some photos and material related to these topics.

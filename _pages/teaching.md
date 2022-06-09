@@ -6,14 +6,14 @@ author_profile: true
 
 ---
 
-## Instructor. Columbia University
+## Instructor - Columbia University
 
 - ***Data Analysis for Policy and Decision Making II*** (*Spring 2022*)  
   This is an intermediate-level course in non-experimental quantitative research methods, especially those related to education policy. The class examines such topics as residual analysis, modeling non-linear relationships and interactions using regression, logistic regression, missing data analyses, multilevel models, and principal components analysis. The course interweaves several concepts: framing research questions; using moderately advanced statistical approaches; learning to manipulate a large-scale longitudinal database; designing empirical tests to examine policy issues with appropriate statistical techniques; and interpreting and conveying research results to diverse audiences.
 
 ---
 
-## Teaching Assistant. Columbia University
+## Teaching Assistant - Columbia University
 
 - ***Quantitative Methods for Evaluating Education Policies and Programs*** (*Prof. Peter Bergman, Spring 2020 & 2021*)
 <!---
@@ -26,7 +26,7 @@ author_profile: true
 
 ---
 
-## Teaching Assistant. Universidad de Chile
+## Teaching Assistant - Universidad de Chile
 
 - ***Labor Market & Labor Economics*** (*Prof. Jaime Ruiz Tagle, Spring 2011*)
 - ***Issues in Social Project Evaluation*** (*Prof. Jaime Ruiz Tagle, Spring 2011*)

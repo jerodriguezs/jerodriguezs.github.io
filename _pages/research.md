@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- Elite Universities and Top Positions in the Public Sector: Evidence from Chile (with Isabela Munevar).
+- Elite Universities and Top Positions in the Public Sector: Evidence from Chile.
 
 - The Effect of School Counselors on Middle and High Schools Discipline.
 

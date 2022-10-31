@@ -32,8 +32,8 @@ author_profile: true
 - ***Issues in Social Project Evaluation*** (*Prof. Jaime Ruiz Tagle, Spring 2011*)
 - ***Econometrics I*** (*Prof. Jaime Ruiz Tagle, Fall 2012*)
 - ***Economics 101*** (*Prof. Dante Contreras, Fall 2011 & 2012*)
-- ***Labor Economics*** (*Prof. Prof. Dante Contreras, Fall 2011*)
-- ***Labor Economics*** (*Prof. Prof. David Bravo, Spring 2010*)
+- ***Labor Economics*** (*Prof. Dante Contreras, Fall 2011*)
+- ***Labor Economics*** (*Prof. David Bravo, Spring 2010*)
 - ***Calculus II*** (*Prof. Freddy Rojas, Spring 2010*)
 
 ---

@@ -73,9 +73,9 @@ social:
 
 # Mastodon instances
 mastodon:
-  username  : juliorodriguez
-  instance  : econtwitter.net
-  url       : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
+  - username  : juliorodriguez
+  instance    : econtwitter.net
+  url         : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
   
  
 

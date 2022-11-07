@@ -63,13 +63,21 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # An array of links to social media profile
 
+# Mastodon instances
+mastodon:
+  username  : juliorodriguez
+  instance  : econtwitter.net
+  url       : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
+  
+ 
 
 # Analytics
 analytics:
@@ -97,13 +105,6 @@ author:
   twitter          :
   github_username  : "jerodriguezs"
   twitter_username : "juliorodriguezs"
-
-
-# Mastodon instances
-mastodon:
-- username  : juliorodriguez
-  instance  : econtwitter.net
-  url       : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
   
 
 # Reading Files

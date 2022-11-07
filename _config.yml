@@ -72,10 +72,10 @@ social:
   links: # An array of links to social media profile
 
 # Mastodon instances
-mastodon:
-  - username  : juliorodriguez
-  instance    : econtwitter.net
-  url         : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
+#mastodon:
+#  - username  : juliorodriguez
+#  instance    : econtwitter.net
+#  url         : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
   
  
 

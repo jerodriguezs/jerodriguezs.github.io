@@ -98,11 +98,12 @@ author:
   github_username  : "jerodriguezs"
   twitter_username : "juliorodriguezs"
 
+
 # Mastodon instances
 mastodon:
-- username: juliorodriguez
-  instance: econtwitter.net
-  <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
+- username  : juliorodriguez
+  instance  : econtwitter.net
+  url       : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
   
 
 # Reading Files

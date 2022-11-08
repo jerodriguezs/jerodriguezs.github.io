@@ -70,13 +70,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profile
-
-# Mastodon instances
-mastodon:
-  - username  : juliorodriguez
-  instance    : econtwitter.net
-#  url         : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
-  
  
 
 # Analytics
@@ -93,7 +86,7 @@ author:
   avatar           : "IMG_4022_opt.jpg"
   bio              : "Ph.D. student in Economics and Education"
   location         : "Manhattan, NY"
-  employer         : "Teachers College,<br> &nbsp &nbsp &nbsp Columbia University"
+  employer         : #"Teachers College,<br> &nbsp &nbsp &nbsp Columbia University"
   pubmed           :
   googlescholar    : # example: "http://yourfullgooglescholarurl.com"
   email            : "julio.rodriguez@columbia.edu"
@@ -106,6 +99,11 @@ author:
   github_username  : "jerodriguezs"
   twitter_username : "juliorodriguezs"
   
+# Mastodon instances
+mastodon:
+  - username  : juliorodriguez
+  instance    : econtwitter.net
+#  url         : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
 
 # Reading Files
 include:

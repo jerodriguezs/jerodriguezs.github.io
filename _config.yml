@@ -65,6 +65,10 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
+mastodon:
+  - username: juliorodriguez
+    instance: econtwitter.net
+    #url         : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -100,12 +104,7 @@ author:
   twitter          :
   github_username  : "jerodriguezs"
   twitter_username : "juliorodriguezs"
-  
-# Mastodon instances
-mastodon:
-  username  : juliorodriguez
-  instance  : econtwitter.net
-  url      : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
+ 
 
 # Reading Files
 include:

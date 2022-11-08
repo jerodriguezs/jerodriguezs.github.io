@@ -5,9 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
+
  
 # Site Settings
 locale                   : "en-US"
@@ -33,7 +31,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -107,7 +105,7 @@ author:
 mastodon:
   username  : juliorodriguez
   instance  : econtwitter.net
-#  url      : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
+  url      : <a rel="me" href="https://econtwitter.net/@juliorodriguez">Mastodon</a>
 
 # Reading Files
 include:

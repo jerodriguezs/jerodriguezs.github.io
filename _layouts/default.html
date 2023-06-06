@@ -8,9 +8,17 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   {% seo %}
   <head>
-    {% include google-gtag.html %}
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7S6G9K7SJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-S7S6G9K7SJ');
+    </script>
   </head>
 
   <body>

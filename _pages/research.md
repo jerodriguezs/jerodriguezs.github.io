@@ -15,9 +15,12 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- Elite Universities and Top Positions in the Public Sector: Evidence from Chile.
+- Elite Universities and Top Positions in the Public Sector (Job Market Paper).
 
 - The Effect of School Counselors on Middle and High Schools Discipline.
+
+- Types of Spending and Schools' Value Added [with G. Elacqua, A. Jaimovich, and I. Munevar].
+  *with G. Elacqua, A. Jaimovich, and I. Munevar*
 
 - Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes. Evidence from Chile.
 
@@ -26,7 +29,7 @@ permalink: /research/
 
 - Better Together? The Effects of Integrated Social Services for Women.  
   *Revise & Resubmit at Journal of Policy Analysis and Management*  
-  *with S. Martinez, M. Pérez and M. Bustelo*
+  *with S. Martinez, M. Pérez, and M. Bustelo*
 
 - Jaimovich, A., Rodríguez, J., Santos, H., Bertoni, E., & Elacqua, G. (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 

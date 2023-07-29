@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- Elite Universities and Top Positions in the Public Sector (Job Market Paper).
+- Elite Universities and Top Positions in the Public Sector Labor Market (Job Market Paper).
 
 - The Effect of School Counselors on Middle and High Schools Discipline.
 

@@ -27,7 +27,7 @@ permalink: /research/
 - Bergman, P., Kopko, E., & Rodriguez, J. E. (2021). *[Using Predictive Analytics to Track Students: Evidence from a Seven-College Experiment](https://www.nber.org/papers/w28948){:target="_blank"}* (No. w28948). National Bureau of Economic Research.  
   *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
 
-- Better Together? The Effects of Integrated Social Services for Women.
+- Better Together? The Effects of Integrated Social Services for Women.  
   [*with S. Martinez, M. Pérez, and M. Bustelo*]  
   *Revise & Resubmit at Journal of Policy Analysis and Management*  
 

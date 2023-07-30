@@ -19,7 +19,7 @@ permalink: /research/
 
 - The Effect of School Counselors on Middle and High Schools Discipline.
 
-- Types of Spending and Schools' Value Added.  
+- Types of School Spending and Academic Achievement.  
   [*with G. Elacqua, A. Jaimovich, and I. Munevar*]
 
 - Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile.

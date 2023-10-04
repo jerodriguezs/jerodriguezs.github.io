@@ -86,7 +86,7 @@ author:
   name             : "Julio Rodríguez"
   avatar           : "jr_profile.png"
   bio              : "Ph.D. candidate in Economics and Education"
-  location         : "Manhattan, NY"
+  location         : #"Manhattan, NY"
   employer         : #"Teachers College,<br> &nbsp &nbsp &nbsp Columbia University"
   pubmed           :
   googlescholar    : # example: "http://yourfullgooglescholarurl.com"
@@ -94,13 +94,13 @@ author:
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   github           : "jerodriguezs"
-  mastodon         : "econtwitter.net/@juliorodriguez"
+  mastodon         : #"econtwitter.net/@juliorodriguez"
   linkedin         : # linkedin user ""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : # twitter user ""
   github_username  : "jerodriguezs"
-  twitter_username : "juliorodriguezs"
+  twitter_username : #"juliorodriguezs"
  
 
 # Reading Files

@@ -25,8 +25,8 @@ permalink: /research/
 - Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile.
 
 - Bergman, P., Kopko, E., & Rodriguez, J. E. (2021). *[Using Predictive Analytics to Track Students: Evidence from a Seven-College Experiment](https://www.nber.org/papers/w28948){:target="_blank"}* (No. w28948). National Bureau of Economic Research.  
-*Summary:* [Summary](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}
-  *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
+*Summary:* [Summary](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"} 
+*Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
 
 - Better Together? The Effects of Integrated Social Services for Women.  
   [*with M. Bustelo, S. Martinez, and M. Pérez*]   

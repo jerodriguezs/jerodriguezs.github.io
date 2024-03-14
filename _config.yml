@@ -89,7 +89,7 @@ author:
   location         : #"Manhattan, NY"
   employer         : #"Teachers College,<br> &nbsp &nbsp &nbsp Columbia University"
   pubmed           :
-  googlescholar    : # example: "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=sLNAT90AAAAJ&hl=en" # example: "http://yourfullgooglescholarurl.com"
   email            : "julio.rodriguez@columbia.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

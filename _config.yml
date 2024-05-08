@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Julio Rodríguez"
 title_separator          : "-"
 name                     : &name "Julio Rodríguez"
-description              : &description # "Postdoctoral Research Fellow"
+description              : &description "" # "Postdoctoral Research Fellow"
 url                      : "https://jerodriguezs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jerodriguezs/jerodriguezs.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Julio Rodríguez"
   avatar           : "jr_profile.png"
-  bio              : #"Postdoctoral Research Fellow"
+  bio              : "" # "Postdoctoral Research Fellow"
   location         : #"Manhattan, NY"
   employer         : #"Teachers College,<br> &nbsp &nbsp &nbsp Columbia University"
   pubmed           :

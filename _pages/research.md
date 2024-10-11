@@ -27,7 +27,8 @@ permalink: /research/
 *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
 
 - [Better Together? The Effects of Integrated Social Services for Women.](https://jerodriguezs.github.io/files/Bustelo_et_al_Ciudad_Mujer_Manuscript.pdf){:target="_blank"}  
-  [*with M. Bustelo, S. Martinez, and M. Pérez*]   
+  [*with M. Bustelo, S. Martinez, and M. Pérez*]
+  [Submitted to the Journal of Development Effectiveness]  
 
 - Jaimovich, A., Rodríguez, J., Santos, H., Bertoni, E., & Elacqua, G. (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 

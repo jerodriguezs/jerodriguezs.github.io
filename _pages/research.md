@@ -23,7 +23,7 @@ permalink: /research/
 - Evaluating Education Interventions at Scale: Evidence from "Teaching at the Right Level" Programs.  
   [*with N. Angrist and P. Freitas*]  
 
-- [From Elite Education to Public Leadership: Career Outcomes in the Public Sector.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}  
+- [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}  
 
 - Bergman, P., Kopko, E., & Rodriguez, J. E. (2021). *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://www.nber.org/papers/w28948){:target="_blank"}* (No. w28948). National Bureau of Economic Research.  
 [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  

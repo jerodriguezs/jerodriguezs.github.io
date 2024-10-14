@@ -17,7 +17,7 @@ permalink: /research/
 
 - The Effect of School Counselors on Middle and High Schools Discipline.
 
-- Impact of Low-Tech Educational Interventions: Experimental Evidence from School Closures in Nepal and the Philippines.  
+- Impact of Tech-Based Parent Information: Experimental Evidence from School Closures in Nepal and the Philippines.  
   [*with N. Angrist and C. Cullen*]  
 
 - [Elite Universities and the Public Sector Labor Market.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}  

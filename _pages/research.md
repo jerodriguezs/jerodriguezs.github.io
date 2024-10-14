@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- The Effect of School Counselors on Middle and High Schools Discipline.
+- Counseling for Change: How School Counselors Shape Discipline Outcomes in Secondary Education.
 
 - Impact of Tech-Based Parent Information on Learning: Experimental Evidence from School Closures in Nepal and the Philippines.  
   [*with N. Angrist and C. Cullen*]
@@ -35,7 +35,7 @@ permalink: /research/
 
 - Jaimovich, A., Rodríguez, J., Santos, H., Bertoni, E., & Elacqua, G. (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 
-- Types of School Spending and Academic Achievement.  
+- Breaking Down the Budget: The Impact of School Spending Categories on Academic Achievement.  
   [*with G. Elacqua, A. Jaimovich, and I. Munevar*]
   
 - Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile.

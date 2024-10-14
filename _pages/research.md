@@ -18,7 +18,10 @@ permalink: /research/
 - The Effect of School Counselors on Middle and High Schools Discipline.
 
 - Impact of Tech-Based Parent Information on Learning: Experimental Evidence from School Closures in Nepal and the Philippines.  
-  [*with N. Angrist and C. Cullen*]  
+  [*with N. Angrist and C. Cullen*]
+
+- Evaluating Large-Scale Education Interventions: Evidence from "Teaching at the Right Level" Programs.
+  [*with N. Angrist and P. Freitas*]  
 
 - [Elite Universities and the Public Sector Labor Market.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}  
 

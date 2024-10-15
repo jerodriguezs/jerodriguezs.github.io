@@ -20,7 +20,7 @@ permalink: /research/
 - Impact of Tech-Based Parent Information on Learning: Experimental Evidence from School Closures in Nepal and the Philippines.  
   [*with N. Angrist and C. Cullen*]
 
-- Evaluating Education Interventions at Scale: Evidence from "Teaching at the Right Level" Programs.  
+- Evaluating Education Interventions at Scale: An Application from "Teaching at the Right Level" Programs.  
   [*with N. Angrist and P. Freitas*]  
 
 - [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}  

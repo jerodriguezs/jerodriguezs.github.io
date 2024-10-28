@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- Counseling for Change: How School Counselors Shape Discipline Outcomes in Secondary Education.
+- Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.
 
 - Impact of Tech-Based Parent Information on Learning: Experimental Evidence from School Closures in Nepal and the Philippines.  
   [*with N. Angrist and C. Cullen*]

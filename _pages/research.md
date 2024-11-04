@@ -17,7 +17,7 @@ permalink: /research/
 
 - Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.
 
-- Can low-cost interventions close educational inequalities? Experimental Evidence from Nepal and the Philippines.  
+- Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines.  
   [*with N. Angrist, P. Bergman, and C. Cullen*]
 
 - Evaluating Education Interventions at Scale: An Application from "Teaching at the Right Level" Programs.  

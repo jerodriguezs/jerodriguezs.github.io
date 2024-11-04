@@ -17,8 +17,8 @@ permalink: /research/
 
 - Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.
 
-- Impact of Tech-Based Parent Information on Learning: Experimental Evidence from School Closures in Nepal and the Philippines.  
-  [*with N. Angrist and C. Cullen*]
+- Can low-cost interventions close educational inequalities? Experimental Evidence from Nepal and the Philippines.  
+  [*with N. Angrist, P. Bergman, and C. Cullen*]
 
 - Evaluating Education Interventions at Scale: An Application from "Teaching at the Right Level" Programs.  
   [*with N. Angrist and P. Freitas*]  

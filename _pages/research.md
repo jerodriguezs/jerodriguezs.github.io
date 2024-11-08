@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.
+- [Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.](https://jerodriguezs.github.io/files/jrodriguez_jmp.pdf){:target="_blank"}  
 
 - Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines.  
   [*with N. Angrist, P. Bergman, and C. Cullen*]

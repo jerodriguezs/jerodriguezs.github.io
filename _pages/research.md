@@ -17,23 +17,23 @@ permalink: /research/
 
 - [Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.](https://jerodriguezs.github.io/files/jrodriguez_jmp.pdf){:target="_blank"}  
 
+- [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}
+
+- Bergman, P., Kopko, E., & Rodriguez, J. E. (2023). *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://www.nber.org/papers/w28948){:target="_blank"}* (No. w28948). National Bureau of Economic Research.  
+[*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
+*Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
+
 - Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines.  
   [*with N. Angrist, P. Bergman, and C. Cullen*]
 
 - Evaluating Education Interventions at Scale: An Application from "Teaching at the Right Level" Programs.  
   [*with N. Angrist and P. Freitas*]  
 
-- [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}  
-
-- Bergman, P., Kopko, E., & Rodriguez, J. E. (2023). *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://www.nber.org/papers/w28948){:target="_blank"}* (No. w28948). National Bureau of Economic Research.  
-[*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
-*Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
-
 - [Better Together? The Effects of Integrated Social Services for Women.](https://jerodriguezs.github.io/files/Bustelo_et_al_Ciudad_Mujer_Manuscript.pdf){:target="_blank"}  
   [*with M. Bustelo, S. Martinez, and M. Pérez*]  
   [Submitted]  
 
-- Jaimovich, A., Rodríguez, J., Santos, H., Bertoni, E., & Elacqua, G. (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
+- Bertoni, E., Elacqua, G., Jaimovich, A., Rodríguez, J., Santos, H., (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 
 - Breaking Down the Budget: The Impact of School Spending Categories on Academic Achievement.  
   [*with G. Elacqua, A. Jaimovich, and I. Munevar*]

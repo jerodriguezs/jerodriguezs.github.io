@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Working Papers and Ongoing Research
 
-- [Beyond Punishment: How School Counselors Shape Disciplinary Practices in Secondary Schools.](https://jerodriguezs.github.io/files/jrodriguez_jmp.pdf){:target="_blank"}  
+- [Counselors and Discipline: The Effect on Exclusionary Practices in Secondary Education.](https://jerodriguezs.github.io/files/jrodriguez_jmp.pdf){:target="_blank"}  
 
 - [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}
 

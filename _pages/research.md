@@ -23,7 +23,7 @@ permalink: /research/
 [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
 *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
 
-- Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines.  
+- Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines. [*Abstract*](https://jerodriguezs.github.io/files/lowcost_philippines_nepal_abstract.pdf){:target="_blank"}  
   *with N. Angrist, P. Bergman, and C. Cullen*
 
 - Evaluating Education Interventions at Scale: An Application from "Teaching at the Right Level" Programs.  

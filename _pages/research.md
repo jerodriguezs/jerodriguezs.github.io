@@ -19,7 +19,7 @@ permalink: /research/
 
 - [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}
 
-- *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://jerodriguezs.github.io/files/algorithms_tracking.pdf){:target="_blank"}*
+- *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://jerodriguezs.github.io/files/algorithms_tracking.pdf){:target="_blank"}*  
   *with P. Bergmand and B. Kopko*  
   [*NBER Working Paper*](https://www.nber.org/papers/w28948){:target="_blank"}  
   [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  

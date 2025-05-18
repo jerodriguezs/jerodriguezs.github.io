@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Publications
 
-- Planas, M.E., et al. (2015) [Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial](https://doi.org/10.1371/journal.pone.0115274){:target="_blank"}. *PLoS ONE 10*(2): e0115274.
+- Planas, M. E., et al. (2015) [Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial](https://doi.org/10.1371/journal.pone.0115274){:target="_blank"}. *PLoS ONE 10*(2): e0115274.
 
 ---
 

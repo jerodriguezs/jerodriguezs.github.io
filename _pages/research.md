@@ -32,8 +32,8 @@ permalink: /research/
 - Evaluating Education Interventions at Scale: An Application from "Teaching at the Right Level" Programs.  
   *with N. Angrist and P. Freitas*
 
-- Economic Returns to Early Education: Causal Estimates Over 20 Years.
-  *with N. Angrist and S. Djaker* [*Abstract*](https://jerodriguezs.github.io/files/returns_schooling_vietnam_abstract.pdf){:target="_blank"} 
+- Economic Returns to Early Education: Causal Estimates Over 20 Years. [*Abstract*](https://jerodriguezs.github.io/files/returns_schooling_vietnam_abstract.pdf){:target="_blank"} 
+  *with N. Angrist and S. Djaker*
 
 - [Better Together? The Effects of Integrated Social Services for Women.](https://jerodriguezs.github.io/files/Bustelo_et_al_Ciudad_Mujer_Manuscript.pdf){:target="_blank"}  
   *with M. Bustelo, S. Martinez, and M. Pérez*  

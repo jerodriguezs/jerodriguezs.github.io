@@ -24,7 +24,6 @@ permalink: /research/
   [*NBER Working Paper*](https://www.nber.org/papers/w28948){:target="_blank"}  
   [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
   *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}  
-  [Submitted]
 
 - Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines. [*Abstract*](https://jerodriguezs.github.io/files/lowcost_philippines_nepal_abstract.pdf){:target="_blank"}  
   *with N. Angrist, P. Bergman, and C. Cullen*
@@ -37,7 +36,6 @@ permalink: /research/
 
 - [Better Together? The Effects of Integrated Social Services for Women.](https://jerodriguezs.github.io/files/Bustelo_et_al_Ciudad_Mujer_Manuscript.pdf){:target="_blank"}  
   *with M. Bustelo, S. Martinez, and M. Pérez*  
-  [Submitted]
 
 - Bertoni, E., Elacqua, G., Jaimovich, A., Rodríguez, J., Santos, H., (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 

@@ -29,7 +29,7 @@ permalink: /research/
 - Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines. [*Abstract*](https://jerodriguezs.github.io/files/lowcost_philippines_nepal_abstract.pdf){:target="_blank"}  
   *with N. Angrist, P. Bergman, and C. Cullen*
 
-- Evaluating Education Interventions at Scale. [*Abstract*](https://jerodriguezs.github.io/files/eval_scale_abstract.pdf){:target="_blank"}  
+- Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India. [*Abstract*](https://jerodriguezs.github.io/files/eval_scale_abstract.pdf){:target="_blank"}  
   *with N. Angrist and P. Freitas*
 
 - Economic Returns to Early Education: Causal Estimates Over 20 Years. [*Abstract*](https://jerodriguezs.github.io/files/returns_schooling_vietnam_abstract.pdf){:target="_blank"}  

@@ -39,7 +39,7 @@ permalink: /research/
 
 - Bertoni, E., Elacqua, G., Jaimovich, A., Rodríguez, J., Santos, H., (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 
-- Not All Dollars Are Equal: The Composition of School Spending and Student Outcomes.  
+- Not All Dollars Are Equal: The Composition of School Spending and Student Outcomes. [*Abstract*](https://jerodriguezs.github.io/files/abstract_schl_spend.pdf){:target="_blank"}  
   *with G. Elacqua, I. Munevar, and M. F. Prada*
   
 - Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile.

@@ -10,6 +10,9 @@ permalink: /research/
 
 - Planas, M. E., et al. (2015) [Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial](https://doi.org/10.1371/journal.pone.0115274){:target="_blank"}. *PLoS ONE 10*(2): e0115274.
 
+- [Better Together? The Effects of Integrated Social Services for Women.](https://jerodriguezs.github.io/files/Bustelo_et_al_Ciudad_Mujer_Manuscript.pdf){:target="_blank"}  
+  *with M. Bustelo, S. Martinez, and M. Pérez* [ACCEPTED]
+  
 ---
 
 
@@ -33,9 +36,6 @@ permalink: /research/
 
 - Economic Returns to Early Education: Causal Estimates Over 20 Years. [*Abstract*](https://jerodriguezs.github.io/files/returns_schooling_vietnam_abstract.pdf){:target="_blank"}  
   *with N. Angrist*
-
-- [Better Together? The Effects of Integrated Social Services for Women.](https://jerodriguezs.github.io/files/Bustelo_et_al_Ciudad_Mujer_Manuscript.pdf){:target="_blank"}  
-  *with M. Bustelo, S. Martinez, and M. Pérez*  
 
 - Bertoni, E., Elacqua, G., Jaimovich, A., Rodríguez, J., Santos, H., (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 

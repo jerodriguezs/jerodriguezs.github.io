@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Publications
 
-- Bustelo, M., Martinez, S., Pérez, M., & Rodríguez, J. (2026). [Better together? The effects of integrated social services for women.] *Journal of Development Effectiveness*, 1–25.](https://doi.org/10.1080/19439342.2026.2676625){:target="_blank"}
+- Bustelo, M., Martinez, S., Pérez, M., & Rodríguez, J. (2026). [Better together? The effects of integrated social services for women.](https://doi.org/10.1080/19439342.2026.2676625){:target="_blank"} *Journal of Development Effectiveness*, 1–25.
   
 - Planas, M. E., et al. (2015) [Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial.](https://doi.org/10.1371/journal.pone.0115274){:target="_blank"}. *PLoS ONE 10*(2): e0115274.
   

@@ -21,7 +21,7 @@ permalink: /research/
   *with N. Angrist and P. Freitas* [*R&R - Journal of Political Economy (Microeconomics)*]
   
 - *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://jerodriguezs.github.io/files/algorithms_tracking.pdf){:target="_blank"}*  
-  *with P. Bergmand and B. Kopko*  
+  *with P. Bergman and B. Kopko*  
   [*NBER Working Paper*](https://www.nber.org/papers/w28948){:target="_blank"}  
   [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
   *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}

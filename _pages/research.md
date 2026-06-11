@@ -20,15 +20,15 @@ permalink: /research/
 - Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India. [*Abstract*](https://jerodriguezs.github.io/files/eval_scale_abstract.pdf){:target="_blank"}  
   *with N. Angrist and P. Freitas* [*R&R - Journal of Political Economy (Microeconomics)*]
   
-- [Counselors and Discipline: The Effect on Exclusionary Practices in Secondary Education.](https://jerodriguezs.github.io/files/counselors_us.pdf){:target="_blank"}
-
-- [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}
-
 - *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://jerodriguezs.github.io/files/algorithms_tracking.pdf){:target="_blank"}*  
   *with P. Bergmand and B. Kopko*  
   [*NBER Working Paper*](https://www.nber.org/papers/w28948){:target="_blank"}  
   [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
-  *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}  
+  *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
+  
+- [Counselors and Discipline: The Effect on Exclusionary Practices in Secondary Education.](https://jerodriguezs.github.io/files/counselors_us.pdf){:target="_blank"}
+
+- [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}
 
 - Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines. [*Abstract*](https://jerodriguezs.github.io/files/lowcost_philippines_nepal_abstract.pdf){:target="_blank"}  
   *with N. Angrist, P. Bergman, and C. Cullen*

@@ -26,7 +26,7 @@ permalink: /research/
   [*Summary*](https://jerodriguezs.github.io/files/res_summary_nber_w28948.pdf){:target="_blank"}  
   *Press coverage:* [INSIDE HIGHER ED](https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education){:target="_blank"}
   
-- [Counselors and Discipline: The Effect on Exclusionary Practices in Secondary Education.](https://jerodriguezs.github.io/files/counselors_us.pdf){:target="_blank"}
+- [School Counselors and Exclusionary Discipline in Secondary Schools.](https://jerodriguezs.github.io/files/counselors_us.pdf){:target="_blank"}
 
 - [From Elite Education to Public Leadership: Career Outcomes in State Administration.](https://jerodriguezs.github.io/files/eliteu_pubsector_paper.pdf){:target="_blank"}
 

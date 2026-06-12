@@ -18,7 +18,7 @@ permalink: /research/
 ## Working Papers and Ongoing Research
 
 - Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India. [*Abstract*](https://jerodriguezs.github.io/files/eval_scale_abstract.pdf){:target="_blank"}  
-  *with N. Angrist and P. Freitas* [*R&R - Journal of Political Economy (Microeconomics)*]
+  *with N. Angrist and P. Freitas* [*R&R -- Journal of Political Economy (Microeconomics)*]
   
 - *[A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness](https://jerodriguezs.github.io/files/algorithms_tracking.pdf){:target="_blank"}*  
   *with P. Bergman and B. Kopko*  

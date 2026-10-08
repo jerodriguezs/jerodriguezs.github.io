@@ -36,10 +36,9 @@ permalink: /research/
 - Economic Returns to Early Education: Causal Estimates Over 20 Years. [*Abstract*](https://jerodriguezs.github.io/files/returns_schooling_vietnam_abstract.pdf){:target="_blank"}  
   *with N. Angrist*
 
-- Not All Dollars Are Equal: The Composition of School Spending and Student Outcomes. [*Abstract*](https://jerodriguezs.github.io/files/abstract_schl_spend.pdf){:target="_blank"}  
-  *with G. Elacqua, I. Munevar, and M. F. Prada*
-  
 - Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile.
+
+- Elacqua, G., Munevar, I., Prada, M. F., Rodríguez, J., (2026). *[Not All Dollars Are Equal: The Composition of School Spending and Student Outcomes](https://publications.iadb.org/en/not-all-dollars-are-equal-composition-school-spending-and-student-outcomes){:target="_blank"}* (No. IDB-WP-01892). Inter-American Development Bank.
 
 - Bertoni, E., Elacqua, G., Jaimovich, A., Rodríguez, J., Santos, H., (2018). *[Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality](http://dx.doi.org/10.18235/0001319){:target="_blank"}* (No. 9124). Inter-American Development Bank.
 

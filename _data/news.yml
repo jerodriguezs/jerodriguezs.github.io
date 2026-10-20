@@ -1,0 +1,8 @@
+# Home page "News" list, newest first.
+# date: shown as written (e.g., "Jun 2026"); text: Markdown.
+
+- date: "Jun 2026"
+  text: "R&R at the *Journal of Political Economy: Microeconomics* for \"Evaluating Education Interventions at Scale\" (with N. Angrist and P. Freitas)."
+
+- date: "2026"
+  text: "[\"Better together? The effects of integrated social services for women\"](https://doi.org/10.1080/19439342.2026.2676625) published in the *Journal of Development Effectiveness*."

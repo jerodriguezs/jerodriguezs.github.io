@@ -1,0 +1,27 @@
+# Home page "Featured research" cards.
+# status: short label shown as a badge; links: label/url pairs.
+
+- title: "Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India"
+  authors: "with N. Angrist and P. Freitas"
+  status: "R&R, JPE: Microeconomics"
+  links:
+    - label: "Abstract"
+      url: "/files/eval_scale_abstract.pdf"
+
+- title: "A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness"
+  authors: "with P. Bergman and B. Kopko"
+  status: "NBER Working Paper"
+  links:
+    - label: "Paper"
+      url: "/files/algorithms_tracking.pdf"
+    - label: "NBER"
+      url: "https://www.nber.org/papers/w28948"
+    - label: "Summary"
+      url: "/files/res_summary_nber_w28948.pdf"
+
+- title: "Better Together? The Effects of Integrated Social Services for Women"
+  authors: "with M. Bustelo, S. Martinez, and M. Pérez"
+  status: "Journal of Development Effectiveness, 2026"
+  links:
+    - label: "Article"
+      url: "https://doi.org/10.1080/19439342.2026.2676625"

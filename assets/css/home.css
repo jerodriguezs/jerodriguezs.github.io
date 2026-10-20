@@ -1,0 +1,105 @@
+/* ==========================================================================
+   Home page sections: research areas, featured research, news.
+   Badge colors reuse the favicon palette (lilac #e2d1f9, green #317773).
+   ========================================================================== */
+
+.home-areas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13em, 1fr));
+  gap: 1em 1.5em;
+  margin: 0 0 1.5em;
+}
+
+.home-area h3 {
+  margin: 0 0 0.25em;
+  font-size: 1em;
+}
+
+.page__content .home-area p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #5c636a;
+}
+
+.paper-card {
+  margin: 0 0 1em;
+  padding: 0.9em 1.1em;
+  border: 1px solid #e3e5e8;
+  border-radius: 6px;
+}
+
+.paper-card__badge {
+  display: inline-block;
+  margin-bottom: 0.4em;
+  padding: 0.1em 0.6em;
+  border-radius: 1em;
+  background: #e2d1f9;
+  color: #317773;
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 0.75em;
+  font-weight: 600;
+}
+
+.page__content .paper-card__title {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.page__content .paper-card__authors {
+  margin: 0.2em 0 0;
+  font-size: 0.9em;
+  font-style: italic;
+  color: #5c636a;
+}
+
+.page__content .paper-card__links {
+  margin: 0.5em 0 0;
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 0.85em;
+}
+
+.paper-card__links a {
+  margin-right: 1em;
+}
+
+.news-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.news-list li {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 0.6em;
+}
+
+.news-list__date {
+  flex: 0 0 5.5em;
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 0.85em;
+  line-height: 1.9;
+  color: #7a8288;
+}
+
+.page__content .news-list__text p {
+  margin: 0;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .home-area p,
+html[data-theme="dark"] .paper-card__authors,
+html[data-theme="dark"] .news-list__date {
+  color: var(--dm-muted);
+}
+
+html[data-theme="dark"] .paper-card {
+  border-color: var(--dm-border);
+  background: var(--dm-bg-alt);
+}
+
+html[data-theme="dark"] .paper-card__badge {
+  background: rgba(226, 209, 249, 0.14);
+  color: #cdb6f2;
+}

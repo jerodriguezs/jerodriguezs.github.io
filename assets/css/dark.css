@@ -1,0 +1,202 @@
+/* ==========================================================================
+   Dark mode
+   Applied when <html data-theme="dark"> (set in _includes/head/custom.html
+   from the visitor's saved choice or system preference).
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  --dm-bg: #16181c;
+  --dm-bg-alt: #1e2126;
+  --dm-border: #2e333a;
+  --dm-text: #d5d9de;
+  --dm-muted: #9aa2ab;
+  --dm-heading: #eef0f3;
+  --dm-link: #7cc4dc;
+  --dm-link-hover: #a9dbeb;
+  color-scheme: dark;
+}
+
+html[data-theme="dark"],
+html[data-theme="dark"] body {
+  background-color: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] .author__name {
+  color: var(--dm-heading);
+}
+
+html[data-theme="dark"] a,
+html[data-theme="dark"] .author__urls a {
+  color: var(--dm-link);
+}
+
+html[data-theme="dark"] a:hover {
+  color: var(--dm-link-hover);
+}
+
+html[data-theme="dark"] hr,
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2 {
+  border-color: var(--dm-border);
+}
+
+/* Masthead and navigation */
+html[data-theme="dark"] .masthead {
+  background-color: var(--dm-bg);
+  border-bottom-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .greedy-nav {
+  background: var(--dm-bg);
+}
+
+html[data-theme="dark"] .greedy-nav a {
+  color: var(--dm-muted);
+}
+
+html[data-theme="dark"] .greedy-nav a:hover {
+  color: var(--dm-heading);
+}
+
+html[data-theme="dark"] .greedy-nav button {
+  background-color: var(--dm-bg-alt);
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+  background: var(--dm-bg-alt);
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:before {
+  border-color: var(--dm-border) transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:after {
+  border-color: var(--dm-bg-alt) transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links li {
+  border-bottom-color: var(--dm-border);
+}
+
+/* Sidebar (mobile "Follow" dropdown) */
+html[data-theme="dark"] .author__avatar img {
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .author__urls {
+  background: var(--dm-bg-alt);
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .author__urls:before {
+  border-color: var(--dm-border) transparent;
+}
+
+html[data-theme="dark"] .author__urls:after {
+  border-color: var(--dm-bg-alt) transparent;
+}
+
+/* GitHub's brand color is near-black and vanishes on the dark background */
+html[data-theme="dark"] .social-icons .fa-github,
+html[data-theme="dark"] .social-icons .fa-github-alt,
+html[data-theme="dark"] .social-icons .fa-github-square {
+  color: var(--dm-text);
+}
+
+/* On wide screens the links are an inline list, not a dropdown
+   (matches the template's $large breakpoint, 925px) */
+@media (min-width: 57.8125em) {
+  html[data-theme="dark"] .author__urls {
+    background: transparent;
+    border: 0;
+  }
+}
+
+html[data-theme="dark"] .btn--inverse {
+  background-color: transparent;
+  border-color: var(--dm-border);
+  color: var(--dm-text) !important;
+}
+
+/* Footer */
+html[data-theme="dark"] .page__footer {
+  background-color: var(--dm-bg-alt);
+  border-top-color: var(--dm-border);
+  color: var(--dm-muted);
+}
+
+/* Code, tables, quotes */
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre,
+html[data-theme="dark"] .highlight {
+  background-color: var(--dm-bg-alt);
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] table,
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] blockquote {
+  border-left-color: var(--dm-border);
+}
+
+/* ==========================================================================
+   Theme toggle button (in the masthead, outside #site-nav so the
+   greedy-navigation script does not treat it as its overflow button)
+   ========================================================================== */
+
+.masthead__inner-wrap {
+  position: relative;
+}
+
+.masthead__menu {
+  padding-right: 2.75em;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  transform: translateY(-50%);
+  width: 2.25em;
+  height: 2.25em;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  background: transparent;
+  color: #7a8288;
+  font-size: 1em;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  border-color: currentColor;
+}
+
+html[data-theme="dark"] .theme-toggle {
+  color: var(--dm-muted);
+}
+
+.theme-toggle .fa-sun,
+html[data-theme="dark"] .theme-toggle .fa-moon {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-toggle .fa-sun {
+  display: inline-block;
+}

@@ -1,0 +1,31 @@
+# Teaching page cards, grouped by role. Fields: title, meta (instructor/term), description.
+
+- heading: "Instructor - Columbia University"
+  courses:
+    - title: "Data Analysis for Policy and Decision Making II"
+      meta: "Spring 2022"
+      description: "This is an intermediate-level course in non-experimental quantitative research methods, especially those related to education policy. The class examines such topics as residual analysis, modeling non-linear relationships and interactions using regression, logistic regression, missing data analyses, multilevel models, and principal components analysis. The course interweaves several concepts: framing research questions; using moderately advanced statistical approaches; learning to manipulate a large-scale longitudinal database; designing empirical tests to examine policy issues with appropriate statistical techniques; and interpreting and conveying research results to diverse audiences."
+
+- heading: "Teaching Assistant - Columbia University"
+  courses:
+    - title: "Quantitative Methods for Evaluating Education Policies and Programs"
+      meta: "Prof. Peter Bergman, Spring 2020 & 2021"
+    - title: "Data Analysis for Policy and Decision Making II"
+      meta: "Prof. Jordan Matsudaira, Fall 2019 & 2020"
+
+- heading: "Teaching Assistant - Universidad de Chile"
+  courses:
+    - title: "Labor Market & Labor Economics"
+      meta: "Prof. Jaime Ruiz Tagle, Spring 2011"
+    - title: "Issues in Social Project Evaluation"
+      meta: "Prof. Jaime Ruiz Tagle, Spring 2011"
+    - title: "Econometrics I"
+      meta: "Prof. Jaime Ruiz Tagle, Fall 2012"
+    - title: "Economics 101"
+      meta: "Prof. Dante Contreras, Fall 2011 & 2012"
+    - title: "Labor Economics"
+      meta: "Prof. Dante Contreras, Fall 2011"
+    - title: "Labor Economics"
+      meta: "Prof. David Bravo, Spring 2010"
+    - title: "Calculus II"
+      meta: "Prof. Freddy Rojas, Spring 2010"

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Paper cards (home and research pages) and home research areas.
+   Cards (home, research and teaching pages), home research areas, CV page.
    Badge colors reuse the favicon palette (lilac #e2d1f9, green #317773).
    ========================================================================== */
 
@@ -56,6 +56,38 @@
 .page__content .paper-card__venue {
   margin: 0.2em 0 0;
   font-size: 0.9em;
+}
+
+.page__content .paper-card__description {
+  margin: 0.5em 0 0;
+  font-size: 0.9em;
+}
+
+/* CV page: download button; the embedded PDF only on wide screens,
+   since phone browsers often show just its first page or nothing */
+.page__content .cv-download {
+  margin: 0 0 1.25em;
+}
+
+.page__content a.cv-download__button {
+  display: inline-block;
+  padding: 0.5em 1.1em;
+  border-radius: 6px;
+  background: #317773;
+  color: #fff !important;
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.page__content a.cv-download__button:hover {
+  background: #275f5c;
+}
+
+@media (max-width: 47.9375em) {
+  .cv-embed {
+    display: none;
+  }
 }
 
 .page__content .paper-card__links {

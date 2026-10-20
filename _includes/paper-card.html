@@ -1,13 +1,16 @@
 {% comment %}
-  One paper as a card. Pass the paper as include.paper; fields (all optional
-  except title): status (badge), title, authors, venue (Markdown), links
-  (list of label/url; relative urls get base_path).
+  One paper (or course) as a card. Pass it as include.paper; fields (all
+  optional except title): status (badge), title, authors, meta (course
+  instructor/term), venue (Markdown), description, links (list of label/url;
+  relative urls get base_path).
 {% endcomment %}
 {% assign paper = include.paper %}
 <div class="paper-card">
   {% if paper.status %}<span class="paper-card__badge">{{ paper.status }}</span>{% endif %}
   <p class="paper-card__title">{{ paper.title }}</p>
   {% if paper.authors %}<p class="paper-card__authors">{{ paper.authors }}</p>{% endif %}
+  {% if paper.meta %}<p class="paper-card__authors">{{ paper.meta }}</p>{% endif %}
   {% if paper.venue %}<p class="paper-card__venue">{{ paper.venue | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{% endif %}
+  {% if paper.description %}<p class="paper-card__description">{{ paper.description }}</p>{% endif %}
   {% if paper.links %}<p class="paper-card__links">{% for link in paper.links %}<a href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ base_path }}{{ link.url }}{% endif %}" target="_blank">{{ link.label }}</a>{% endfor %}</p>{% endif %}
 </div>

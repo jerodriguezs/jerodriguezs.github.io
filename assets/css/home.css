@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Home page sections: research areas, featured research, news.
+   Home page sections: research areas, featured research.
    Badge colors reuse the favicon palette (lilac #e2d1f9, green #317773).
    ========================================================================== */
 
@@ -63,34 +63,9 @@
   margin-right: 1em;
 }
 
-.news-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.news-list li {
-  display: flex;
-  gap: 1em;
-  margin-bottom: 0.6em;
-}
-
-.news-list__date {
-  flex: 0 0 5.5em;
-  font-family: "Source Sans 3", sans-serif;
-  font-size: 0.85em;
-  line-height: 1.9;
-  color: #7a8288;
-}
-
-.page__content .news-list__text p {
-  margin: 0;
-}
-
 /* Dark mode */
 html[data-theme="dark"] .home-area p,
-html[data-theme="dark"] .paper-card__authors,
-html[data-theme="dark"] .news-list__date {
+html[data-theme="dark"] .paper-card__authors {
   color: var(--dm-muted);
 }
 

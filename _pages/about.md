@@ -47,11 +47,3 @@ Additionally, I am interested in studying algorithm systems that support decisio
 {% endfor %}
 
 <p><a href="{{ base_path }}/research/">All research &rarr;</a></p>
-
-## News
-
-<ul class="news-list">
-{% for item in site.data.news %}
-  <li><span class="news-list__date">{{ item.date }}</span><div class="news-list__text">{{ item.text | markdownify }}</div></li>
-{% endfor %}
-</ul>

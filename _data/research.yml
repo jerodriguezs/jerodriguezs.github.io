@@ -1,0 +1,77 @@
+# Research page cards, in display order within each section.
+# Fields: title, authors, status (badge), venue (Markdown), links (label/url).
+
+publications:
+  - title: "Better Together? The Effects of Integrated Social Services for Women"
+    authors: "with M. Bustelo, S. Martinez, and M. Pérez"
+    status: "Published"
+    venue: "*Journal of Development Effectiveness*, 18(2), 228–252 (2026)"
+    links:
+      - label: "Article"
+        url: "https://doi.org/10.1080/19439342.2026.2676625"
+
+  - title: "Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial"
+    authors: "with M. E. Planas et al."
+    status: "Published"
+    venue: "*PLoS ONE*, 10(2): e0115274 (2015)"
+    links:
+      - label: "Article"
+        url: "https://doi.org/10.1371/journal.pone.0115274"
+
+working_papers:
+  - title: "Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India"
+    authors: "with N. Angrist and P. Freitas"
+    status: "R&R, JPE Micro"
+    links:
+      - label: "Abstract"
+        url: "/files/eval_scale_abstract.pdf"
+
+  - title: "A Seven-College Experiment Using Algorithms to Track Students: Impacts and Implications for Equity and Fairness"
+    authors: "with P. Bergman and B. Kopko"
+    status: "Submitted, JPE"
+    links:
+      - label: "Paper"
+        url: "/files/algorithms_tracking.pdf"
+      - label: "NBER Working Paper"
+        url: "https://www.nber.org/papers/w28948"
+      - label: "Summary"
+        url: "/files/res_summary_nber_w28948.pdf"
+      - label: "Press: Inside Higher Ed"
+        url: "https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education"
+
+  - title: "School Counselors and Exclusionary Discipline in Secondary Schools"
+    links:
+      - label: "Paper"
+        url: "/files/counselors_us.pdf"
+
+  - title: "From Elite Education to Public Leadership: Career Outcomes in State Administration"
+    links:
+      - label: "Paper"
+        url: "/files/eliteu_pubsector_paper.pdf"
+
+  - title: "Can Low-cost Interventions Close Educational Inequalities? Experimental Evidence from Nepal and the Philippines"
+    authors: "with N. Angrist, P. Bergman, and C. Cullen"
+    links:
+      - label: "Abstract"
+        url: "/files/lowcost_philippines_nepal_abstract.pdf"
+
+  - title: "Economic Returns to Early Education: Causal Estimates Over 20 Years"
+    authors: "with N. Angrist"
+    links:
+      - label: "Abstract"
+        url: "/files/returns_schooling_vietnam_abstract.pdf"
+
+  - title: "Not All Dollars Are Equal: The Composition of School Spending and Student Outcomes"
+    authors: "with G. Elacqua, I. Munevar, and M. F. Prada"
+    links:
+      - label: "Abstract"
+        url: "/files/abstract_schl_spend.pdf"
+
+  - title: "Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile"
+
+  - title: "Teacher Policies, Incentives, and Labor Markets in Chile, Colombia, and Peru: Implications for Equality"
+    authors: "with E. Bertoni, G. Elacqua, A. Jaimovich, and H. Santos"
+    venue: "Inter-American Development Bank, No. 9124 (2018)"
+    links:
+      - label: "Report"
+        url: "http://dx.doi.org/10.18235/0001319"

@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/home.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/cards.css">
 
 I'm a Postdoctoral Research Fellow at the University of Oxford. I hold a Ph.D. in Economics and Education from Columbia University. Previously, I obtained a B.A. in Economics and an M.A. in Economic Analysis from Universidad de Chile.
 
@@ -38,12 +38,7 @@ Additionally, I am interested in studying algorithm systems that support decisio
 ## Featured research
 
 {% for paper in site.data.featured %}
-<div class="paper-card">
-  <span class="paper-card__badge">{{ paper.status }}</span>
-  <p class="paper-card__title">{{ paper.title }}</p>
-  <p class="paper-card__authors">{{ paper.authors }}</p>
-  <p class="paper-card__links">{% for link in paper.links %}<a href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ base_path }}{{ link.url }}{% endif %}" target="_blank">{{ link.label }}</a>{% endfor %}</p>
-</div>
+{% include paper-card.html paper=paper %}
 {% endfor %}
 
 <p><a href="{{ base_path }}/research/">All research &rarr;</a></p>

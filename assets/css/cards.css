@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Home page sections: research areas, featured research.
+   Paper cards (home and research pages) and home research areas.
    Badge colors reuse the favicon palette (lilac #e2d1f9, green #317773).
    ========================================================================== */
 
@@ -51,6 +51,11 @@
   font-size: 0.9em;
   font-style: italic;
   color: #5c636a;
+}
+
+.page__content .paper-card__venue {
+  margin: 0.2em 0 0;
+  font-size: 0.9em;
 }
 
 .page__content .paper-card__links {

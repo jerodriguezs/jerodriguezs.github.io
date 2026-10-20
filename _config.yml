@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Julio Rodríguez"
 title_separator          : "-"
 name                     : &name "Julio Rodríguez"
-description              : &description "" # "Postdoctoral Research Fellow"
+description              : &description "Applied microeconomist working on education, labor, and causal inference."
 url                      : "https://jerodriguezs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jerodriguezs/jerodriguezs.github.io"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : juliorodriguezs
+  username               :
 facebook:
   username               :
   app_id                 :

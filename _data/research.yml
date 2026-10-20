@@ -4,7 +4,6 @@
 publications:
   - title: "Better Together? The Effects of Integrated Social Services for Women"
     authors: "with M. Bustelo, S. Martinez, and M. Pérez"
-    status: "Published"
     venue: "*Journal of Development Effectiveness*, 18(2), 228–252 (2026)"
     links:
       - label: "Article"
@@ -12,7 +11,6 @@ publications:
 
   - title: "Effects of Ethnic Attributes on the Quality of Family Planning Services in Lima, Peru: A Randomized Crossover Trial"
     authors: "with M. E. Planas et al."
-    status: "Published"
     venue: "*PLoS ONE*, 10(2): e0115274 (2015)"
     links:
       - label: "Article"
@@ -40,6 +38,7 @@ working_papers:
         url: "https://www.insidehighered.com/news/2021/07/01/report-suggests-algorithms-can-help-fix-remedial-education"
 
   - title: "School Counselors and Exclusionary Discipline in Secondary Schools"
+    status: "Submitted, JHR"
     links:
       - label: "Paper"
         url: "/files/counselors_us.pdf"

@@ -62,9 +62,10 @@ working_papers:
 
   - title: "Not All Dollars Are Equal: The Composition of School Spending and Student Outcomes"
     authors: "with G. Elacqua, I. Munevar, and M. F. Prada"
+    venue: "IDB Working Paper No. IDB-WP-01892, Inter-American Development Bank (2026)"
     links:
-      - label: "Abstract"
-        url: "/files/abstract_schl_spend.pdf"
+      - label: "Paper"
+        url: "https://doi.org/10.18235/0014545"
 
   - title: "Mining and Energy Industries' Pollution Effects on School Students' and Teachers' Outcomes: Evidence from Chile"
 

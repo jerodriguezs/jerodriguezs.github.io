@@ -2,6 +2,14 @@
 # Fields: title, authors, status (badge), venue (Markdown), links (label/url).
 
 publications:
+  - title: "Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India"
+    authors: "with N. Angrist and P. Freitas"
+    status: "Conditionally accepted"
+    venue: "*Journal of Political Economy Microeconomics*"
+    links:
+      - label: "Abstract"
+        url: "/files/eval_scale_abstract.pdf"
+
   - title: "Better Together? The Effects of Integrated Social Services for Women"
     authors: "with M. Bustelo, S. Martinez, and M. Pérez"
     venue: "*Journal of Development Effectiveness*, 18(2), 228–252 (2026)"
@@ -17,13 +25,6 @@ publications:
         url: "https://doi.org/10.1371/journal.pone.0115274"
 
 working_papers:
-  - title: "Evaluating Education Interventions at Scale: Quasi-Experimental and Experimental Results from India"
-    authors: "with N. Angrist and P. Freitas"
-    status: "Conditionally accepted, JPE Micro"
-    links:
-      - label: "Abstract"
-        url: "/files/eval_scale_abstract.pdf"
-
   - title: "Better Predictions, Better Decisions? Experimental Evidence on Algorithmic Tracking across Seven Colleges"
     authors: "with P. Bergman and B. Kopko"
     status: "Submitted, JPE"
